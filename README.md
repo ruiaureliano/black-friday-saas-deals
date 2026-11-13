@@ -24,7 +24,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 
 | Platform | Description | 2026 Deal |
 |---|---|---|
-| **Sip** | Native color picker for macOS that helps collect, organize, edit and share colors and palettes. | [50% off](https://sipapp.io/blackfriday/) — `BLACKFRIDAY26` Nov 27–29; `CYBERMONDAY26` Nov 30–Dec 2, 2026 |
+| **Sip** | Native macOS color picker for collecting, organizing, editing, and sharing colors and palettes. | [50% off](https://sipapp.io/blackfriday/) — `BLACKFRIDAY26` Nov 27–29; `CYBERMONDAY26` Nov 30–Dec 2, 2026 |
 | **HubSpot** | Inbound marketing, sales pipelines, and customer service suite. | [Up to 45% off annual plans](https://go.try-hubspot.com/promo) |
 | **ActiveCampaign** | Email marketing automation and CRM platform. | [*[Deal TBA]*](https://try.activecampaign.com/prices) |
 | **Pipedrive** | Sales-focused CRM and pipeline tracking tool. | [35% off annual plans](https://aff.trypipedrive.com/9n5kxf7y1g5d) |
